@@ -1,4 +1,4 @@
-import { useEffect, useRef, useEffect, useId } from 'react';
+import { useEffect, useRef, useId } from 'react';
 import './GlassSurface.css';
 
 const GlassSurface = ({
