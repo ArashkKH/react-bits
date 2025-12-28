@@ -128,7 +128,7 @@ const CounterDemo = () => {
         <Box position="relative" className="demo-container" h={400} overflow="hidden">
           <Counter
             value={value}
-            places={[100, 10, 1 , "." , .1]}
+            places={[100, 10, 1]}
             gradientFrom="#060010"
             fontSize={fontSize}
             padding={5}
